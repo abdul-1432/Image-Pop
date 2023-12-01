@@ -59,11 +59,11 @@ You can customize Image Pop by passing options during initialization:
 </script>
 ```
 
-For more customization options, refer to the [documentation](#).
+For more customization options, refer to the [documentation](https://codepen.io/mobalti/pen/ExGBdpd).
 
 ## Inspired by
 
-This project is inspired by the [Image Pop on CodePen](#).
+This project is inspired by the [Image Pop on CodePen](https://codepen.io/mobalti/pen/ExGBdpd).
 
 ## License
 
