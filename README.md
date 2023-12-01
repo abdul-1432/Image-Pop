@@ -9,9 +9,6 @@ Image Pop is a lightweight JavaScript library that allows you to display a colle
 - Next and previous navigation buttons
 - Close button for easy exit
 
-## Demo
-
-Check out the [live demo](#) to see Image Pop in action!
 
 ## Usage
 
@@ -35,7 +32,7 @@ Check out the [live demo](#) to see Image Pop in action!
 
 3. Initialize Image Pop:
 
-```html
+```HTML
 <script>
   // Initialize Image Pop
   const imagePop = new ImagePop('#image-container');
@@ -48,14 +45,14 @@ That's it! Now your images will be displayed in a grid, and clicking on an image
 
 You can customize Image Pop by passing options during initialization:
 
-```html
+```HTML
 <script>
   const options = {
     // Add your custom options here
   };
 
   // Initialize Image Pop with options
-  const imagePop = new ImagePop('#image-container', options);
+  const image pop = new ImagePop('#image-container', options);
 </script>
 ```
 
